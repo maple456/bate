@@ -34,8 +34,8 @@ wait2 = {
 }
 setTime = {}
 setTime = wait2['setTime']
-admin=['ue05b2afe4469adb49cb7ae2da121b45d',clMID]
-master=['u66d4c27e8f45f025cf5774883b67ddc1']
+admin=['uec6d62c3e4a61f033332bc1d86133e49',clMID]
+master=['uec6d62c3e4a61f033332bc1d86133e49']
 msg_dict = {}
 bl = [""]
 def cTime_to_datetime(unixtime):
