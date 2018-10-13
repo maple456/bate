@@ -10,7 +10,7 @@ from googletrans import Translator
 botStart = time.time()
 
 #登入驗證開始
-cl = LINE("EtxcNWsQDUAJsa7rXhid.4fSQ+KrPRBsCT64TOsg0xq.aWGWZHXgWb1M8k6HmA00wCyz0gfwm3KTMDEdLEpyo5g=")
+cl = LINE("Ex4CbmpklhoEdzTLu6t4.9Dp7lrYDv+TyrYhpMfJMba.VsKQDRvcfI1zU2zNjRVkV8yakayLzaiDUHYD6R33HeM=")
 channelToken = cl.getChannelResult()
 cl.log("莉姆露TOKEN:" + str(cl.authToken))
 
